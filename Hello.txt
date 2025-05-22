@@ -1,1 +1,2 @@
 Hallo mei nName ist Noe
+Notiz: Ich arbeite gerade an meiner erster Git-.Ausgabe.
